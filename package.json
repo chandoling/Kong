@@ -10,9 +10,6 @@
   "author": "dolchan",
   "license": "MIT",
   "dependencies": {
-    "@flashbots/ethers-provider-bundle": "^1.0.0",
-    "dotenv": "^16.4.5",
-    "ethers": "^6.7.1",
     "node-schedule": "^2.1.1",
     "request": "^2.88.2",
     "web3": "^1.7.4",
