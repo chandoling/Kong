@@ -1,0 +1,26 @@
+{
+  "name": "wallet rescue",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "dolchan",
+  "license": "MIT",
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.7.1",
+    "node-schedule": "^2.1.1",
+    "request": "^2.88.2",
+    "web3": "^1.7.4",
+    "web3-net": "^1.6.0",
+    "web3-providers-ws": "^1.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chandoling/wallet-rescue"
+  }
+}
