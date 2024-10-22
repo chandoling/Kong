@@ -18,7 +18,7 @@ const Web3 = require('web3');
 const fs = require('fs');
 
 // Initialize Web3 with the appropriate RPC URL
-const web3 = new Web3('https://scroll.blockpi.network/v1/rpc/a3836ce6936607f31680db4924e543ba2abaf0d5'); // Replace with your updated RPC URL
+const web3 = new Web3('https://scroll.blockpi.network/v1/rpc'); // Replace with your updated RPC URL
 
 // Sender's private key (the wallet sending ETH to recipients)
 const senderPrivateKey = ''; // 0xFc8F295801a08367DA58eF0Cb1532a144fC75560 프라이빗 키
